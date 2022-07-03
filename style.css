@@ -3,7 +3,7 @@
 
 body
 {
-    background: url('image/buzzl.jpg');
+    background: url('buzzl.jpg');
     font-family: 'Trebuchet MS', Arial, sans-serif;
     color: #181818;
 }
@@ -116,7 +116,7 @@ nav a:hover
 {
     height: 700px;
     border-radius: 5px;
-    background: url('image/epice.jpg') no-repeat;
+    background: url('epice.jpg') no-repeat;
     background-size: cover;
     margin-bottom: 25px;
     justify-content: center;
